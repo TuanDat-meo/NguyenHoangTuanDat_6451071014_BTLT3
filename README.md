@@ -1,7 +1,19 @@
 # bai_buoi1
 
 A new Flutter project.
+## Demo
 
+![Home Screen](screenshots/home_screen.png)
+![Detail Screen](screenshots/Cau1.png)
+![Detail Screen](screenshots/Cau2.png)
+![Detail Screen](screenshots/Cau3.png)
+![Detail Screen](screenshots/Cau4.png)
+![Detail Screen](screenshots/Cau5.png)
+![Detail Screen](screenshots/Cau6.png)
+![Detail Screen](screenshots/Cau7.png)
+![Detail Screen](screenshots/Cau8.png)
+![Detail Screen](screenshots/Cau9.png)
+![Detail Screen](screenshots/Cau10.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
